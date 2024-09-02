@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+  overflow: hidden;
+}
+#app {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+#run-simulation,
+#reset {
+  position: absolute;
+  top: 20px;
+  z-index: 10;
+  pointer-events: auto;
+}
+
+#run-simulation {
+  left: 20px;
+}
+
+#reset {
+  right: 20px; /* Adjust as needed for proper placement */
+}

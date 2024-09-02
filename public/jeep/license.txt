@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jeep
+* source:	https://sketchfab.com/3d-models/jeep-28f3b67e98544ed9a1e14d39c01e736b
+* author:	arun1232 (https://sketchfab.com/arun1232)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jeep" (https://sketchfab.com/3d-models/jeep-28f3b67e98544ed9a1e14d39c01e736b) by arun1232 (https://sketchfab.com/arun1232) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

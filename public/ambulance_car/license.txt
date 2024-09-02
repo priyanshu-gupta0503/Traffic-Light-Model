@@ -1,0 +1,11 @@
+Model Information:
+* title:	ambulance car
+* source:	https://sketchfab.com/3d-models/ambulance-car-ede02e5e7432438e936c7556faf602b5
+* author:	Sidra (https://sketchfab.com/Sidramax)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ambulance car" (https://sketchfab.com/3d-models/ambulance-car-ede02e5e7432438e936c7556faf602b5) by Sidra (https://sketchfab.com/Sidramax) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

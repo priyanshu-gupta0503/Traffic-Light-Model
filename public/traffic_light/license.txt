@@ -1,0 +1,11 @@
+Model Information:
+* title:	Traffic Light
+* source:	https://sketchfab.com/3d-models/traffic-light-bc1a6c8daaf7422d806f3f0e154e436b
+* author:	ahmedhafiene98 (https://sketchfab.com/ahmedhafiene98)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Traffic Light" (https://sketchfab.com/3d-models/traffic-light-bc1a6c8daaf7422d806f3f0e154e436b) by ahmedhafiene98 (https://sketchfab.com/ahmedhafiene98) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

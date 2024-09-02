@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nissan President (G50 JS)
+* source:	https://sketchfab.com/3d-models/nissan-president-g50-js-3f10329ad60247839e61d0b70121e1d1
+* author:	madizon (https://sketchfab.com/madizon)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nissan President (G50 JS)" (https://sketchfab.com/3d-models/nissan-president-g50-js-3f10329ad60247839e61d0b70121e1d1) by madizon (https://sketchfab.com/madizon) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tuk Tuk Rikshaw
+* source:	https://sketchfab.com/3d-models/tuk-tuk-rikshaw-0bdfdf97a0f248008806840f7188367c
+* author:	alnmathew (https://sketchfab.com/alnmathew21)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tuk Tuk Rikshaw" (https://sketchfab.com/3d-models/tuk-tuk-rikshaw-0bdfdf97a0f248008806840f7188367c) by alnmathew (https://sketchfab.com/alnmathew21) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
